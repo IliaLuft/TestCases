@@ -4,5 +4,5 @@
 
 ## Тест-кейсы
  
-[Тест кейсы](file:///C:/Users/ilial/OneDrive/Desktop/Моя%20папка/Тест-кейсы.pdf) содержат список проверок, необходимых для тестирования.
+[Тест кейсы](https://drive.google.com/file/d/11ca2XGklM2d73JLUArIKFphA4kiVt2bt/view?usp=sharing) содержат список проверок, необходимых для тестирования.
 
