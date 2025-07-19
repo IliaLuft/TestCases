@@ -4,5 +4,5 @@
 
 ## Тест-кейсы
  
-[Тест кейсы](https://drive.google.com/file/d/11ca2XGklM2d73JLUArIKFphA4kiVt2bt/view?usp=sharing) содержат список проверок, необходимых для тестирования.
+[Тест кейсы](https://drive.google.com/file/d/1hW77gWylrU1zucf3w3Rk-Fq_vbezc87_/view?usp=sharing) содержат список проверок, необходимых для тестирования.
 
