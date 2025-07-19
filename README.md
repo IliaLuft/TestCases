@@ -4,5 +4,5 @@
 
 ## Тест-кейсы
  
-[Тест кейсы](https://team-vdc9.testit.software/dashboards/3efdd067-39cb-4f77-aa01-eb068cd8b433) содержат список проверок, необходимых для тестирования.
+[Тест кейсы](https://team-vdc9.testit.software/projects/1) содержат список проверок, необходимых для тестирования.
 
