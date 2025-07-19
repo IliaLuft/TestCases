@@ -4,5 +4,5 @@
 
 ## Тест-кейсы
  
-[Тест кейсы](https://drive.google.com/file/d/1IxRxyd0AV8qMIQTwzRIujNgGetunLpeF/view?usp=sharing) содержат список успешно выполненных проверок, необходимых для тестирования.
+[Тест-кейсы.pdf](https://drive.google.com/file/d/1IxRxyd0AV8qMIQTwzRIujNgGetunLpeF/view?usp=sharing) содержат список успешно выполненных проверок, необходимых для тестирования.
 
